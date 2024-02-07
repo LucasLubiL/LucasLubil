@@ -3,10 +3,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F0F8FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+me+chamo+Lucas+Amaral+🖐️;Tenho+21+anos+de+idade+😀)](https://git.io/typing-svg)
 ##
-   
-### Entre em contato!   
+    
+### Entre em contato!  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-amaral-luciano-076005298/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luc_asa_/)
+##
+
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLubiL&show_icons=true&theme=tokyonight)
 
