@@ -19,9 +19,7 @@
 ### Estou no mundo da programação desde maio de 2023 estudando totalmente por fora,mas julho de 2023 em diante estou cursando presencialmente o curso de Análise e Desenvolvimento de Sistemas,mas nunca sendo limitado apenas ao curso e sim sempre buscando conhecimento nesse "mundo" gigante de tecnologias!
 
 ## Hobbies
-#### No meu tempo livre gosto muito de:
-#### Jogar🎮
-#### Basquete🏀
-#### Músicas🎵
-#### Ler📘
-#### Filmes/Séries🍿
+### No meu tempo livre gosto muito de: 
+#### Jogar🎮 / Basquete🏀 / Músicas🎵 / Ler📘 / Filmes/Séries🍿
+ 
+
