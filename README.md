@@ -28,6 +28,6 @@
 
 ## Hobbies
 ### No meu tempo livre gosto muito de: 
-#### Jogar🎮 / Basquete🏀 / Músicas🎵 / Ler📘 / Filmes/Séries🍿
+#### Jogar🎮 / Treinar💪 / Basquete🏀 / Músicas🎵 / Ler📘 / Filmes/Séries🍿
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=footer"/>
