@@ -22,6 +22,5 @@
 ### No meu tempo livre gosto muito de: 
 #### Jogar🎮 / Basquete🏀 / Músicas🎵 / Ler📘 / Filmes/Séries🍿
 
-[!Snake animation](https://github.com/LucasLubiL/LucasLubiL/blob/output/github-contribution-gride-snake.svg)
  
 
