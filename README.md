@@ -5,6 +5,8 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLubiL&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLubiL)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Essas são algumas das tecnologias na qual estou usando e estudando mais e mais👨‍💻
 
 <div style="display: inline_block"><br/>
