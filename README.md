@@ -30,4 +30,8 @@
 ### No meu tempo livre gosto muito de: 
 #### Jogar🎮 / Treinar💪 / Basquete🏀 / Músicas🎵 / Ler📘 / Filmes/Séries🍿
 
+<p align="center">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=footer"/>
