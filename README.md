@@ -9,6 +9,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luc_asa_/)
 ##
 
+![profile count](https://komarev.com/ghpvc/?username=LucasLubiL&color=5B0EC0&style=flat-square)&nbsp;
+
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLubiL&show_icons=true&theme=tokyonight)
 
