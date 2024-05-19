@@ -26,6 +26,7 @@
    <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
    <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> 
 </div>
 
 ### Estou no mundo da programação desde maio de 2023 estudando totalmente por fora,mas julho de 2023 em diante estou cursando presencialmente o curso de Análise e Desenvolvimento de Sistemas,mas nunca sendo limitado apenas ao curso e sim sempre buscando conhecimento nesse "mundo" gigante de tecnologias!
