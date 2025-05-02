@@ -29,8 +29,11 @@
    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
    <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> 
+   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
+   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
 </div>
-
+	
 ### Estou no mundo da programação desde maio de 2023 estudando totalmente por fora,mas julho de 2023 em diante estou cursando presencialmente o curso de Análise e Desenvolvimento de Sistemas,mas nunca sendo limitado apenas ao curso e sim sempre buscando conhecimento nesse "mundo" gigante de tecnologias!
 
 ## Hobbies
