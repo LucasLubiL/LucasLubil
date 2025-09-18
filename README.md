@@ -27,6 +27,7 @@
    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
+   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
 </div>
 	
 ### Estou no mundo da programação desde maio de 2023 estudando totalmente por fora,mas julho de 2023 em diante estou cursando presencialmente o curso de Análise e Desenvolvimento de Sistemas,mas nunca sendo limitado apenas ao curso e sim sempre buscando conhecimento nesse "mundo" gigante de tecnologias!
