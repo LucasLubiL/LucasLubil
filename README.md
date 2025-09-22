@@ -3,7 +3,7 @@
 <div align="center">
 
 # 👨‍💻  🚀
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=28&center=true&vCenter=true&width=600&lines=Olá!+Me+chamo+Lucas+Amaral;Tenho+23Anos+de+Idade;Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia+🚀;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=28&center=true&vCenter=true&width=600&lines=Olá!+Me+chamo+Lucas+Amaral;Tenho+23+Anos+de+Idade;Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia+🚀;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ---
 
