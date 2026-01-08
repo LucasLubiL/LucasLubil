@@ -65,12 +65,9 @@
 
 <div align="center">
 
-<a href="https://github.com/LucasLubiL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLubiL&show_icons=true&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/LucasLubiL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLubiL&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasLubiL&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasLubiL&theme=tokyonight"/>
 
 </div>
 
