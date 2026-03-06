@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://flagcdn.com/br.svg" height="25">
-  <img src="https://flagcdn.com/us.svg" height="22">
 </p>
 
 ---
