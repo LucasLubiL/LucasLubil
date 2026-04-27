@@ -58,6 +58,7 @@
 <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+   <img alt="GitHub" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 </div>
 
 ### 🛠️ Tools  
