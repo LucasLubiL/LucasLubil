@@ -18,9 +18,9 @@
 ---
 
 ## 🚀 About Me  
-🎓 **Systems Analysis and Development** student since July 2023.  
-💻 Always striving to learn beyond the classroom, exploring languages and their tools.  
-📚 Currently focused on **backend and frontend development**.  
+🎓 Associate Degree in Systems Analysis and Development.
+💻 Constantly seeking to learn beyond the classroom, exploring programming languages ​​and their associated tools.
+📚 Currently focused on backend and frontend development. 
 
 ---
 
